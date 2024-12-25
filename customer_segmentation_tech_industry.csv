@@ -1,0 +1,1001 @@
+CustomerID,Frequency,CustomerType,ProductType,Recency,MonetaryValue
+00e0d2e3,1,Individual,Software,273,986.07
+00ebff09,2,Small Business,Software,260,1047.77
+015b7cc7,2,Individual,Software,78,540.32
+01acb293,1,Individual,Software,142,1489.73
+01b2fba6,1,Individual,Software,101,286.06
+01c16286,2,Small Business,Software,202,300.32
+01e21585,3,Enterprise,Services,247,711.78
+01f9f481,2,Individual,Software,300,1089.83
+0238407a,1,Individual,Software,231,1350.19
+026b594b,4,Individual,Services,32,1185.64
+2845221,5,Individual,Hardware,246,1449.55
+02b76a75,3,Small Business,Services,167,958.8
+02c0bcdd,1,Individual,Services,256,668.95
+02cb24fb,2,Enterprise,Services,83,414.05
+02e3a52f,5,Enterprise,Software,140,733.54
+0319b0b3,1,Individual,Software,348,1168.67
+033406cb,2,Small Business,Hardware,68,930.77
+036664a9,2,Small Business,Software,153,413.44
+036eac68,1,Individual,Services,193,1483.85
+03bce8cd,1,Individual,Hardware,332,838.27
+03c236ef,3,Small Business,Software,263,987.66
+040158a2,5,Individual,Software,240,831.42
+4678003,1,Individual,Software,265,306.87
+046b7d35,1,Small Business,Services,27,715.41
+04a428f4,2,Individual,Software,322,520.11
+0504a180,1,Individual,Services,343,415.29
+0528e377,1,Small Business,Services,11,1334.54
+053f7000,1,Individual,Software,347,926.04
+063e03de,4,Individual,Hardware,305,1353.77
+06cd7ad5,1,Enterprise,Software,249,144.62
+06fef85c,1,Individual,Software,166,270.1
+075caafb,1,Small Business,Software,251,240.12
+077cd434,2,Individual,Hardware,243,1435.8
+08944f0f,1,Enterprise,Software,193,964.17
+08bd7b90,2,Individual,Services,8,1149.46
+9360833,2,Individual,Hardware,175,909.11
+9838293,2,Individual,Software,182,940.26
+099643ee,1,Individual,Software,21,1129.76
+09b7a46b,2,Individual,Software,233,1354.9
+09dcac45,2,Individual,Software,43,927.21
+0a8633c9,1,Individual,Software,161,237.62
+0aa880a4,1,Individual,Hardware,221,1109.08
+0b9d6f2a,1,Small Business,Hardware,343,1418.56
+0be3f943,2,Enterprise,Software,312,979.23
+0be4e3c3,2,Small Business,Hardware,314,339.52
+0be90517,2,Small Business,Hardware,137,472.25
+0c024248,3,Small Business,Software,204,746.66
+0c0ccc7f,2,Enterprise,Software,340,127.12
+0c6b89ea,3,Individual,Software,246,89.75
+0d5f60f1,3,Enterprise,Software,301,807.62
+0d6ee080,3,Enterprise,Software,7,396.22
+0dfb7cc8,2,Small Business,Software,84,1485.41
+0e062800,3,Enterprise,Services,16,481.85
+0e12227a,1,Small Business,Software,228,832.44
+0f1b3632,1,Individual,Software,109,863.52
+0f2f8f08,2,Small Business,Services,91,936.23
+0f58181b,1,Small Business,Services,286,186.89
+0fa5b55a,1,Small Business,Hardware,10,299.13
+0fee11d2,2,Small Business,Hardware,182,1291.32
+100f40fb,1,Individual,Software,309,1403.24
+105d9774,1,Individual,Hardware,268,453.04
+1067df08,1,Individual,Software,62,252.95
+10742591,1,Individual,Software,117,520.15
+11041106,1,Small Business,Software,327,433.38
+1111b7b3,2,Enterprise,Software,198,609.22
+1157b937,5,Individual,Services,180,663.17
+11ace9c9,1,Individual,Hardware,57,71.58
+11b01415,2,Small Business,Hardware,259,882.57
+12477dbc,4,Small Business,Services,6,363.31
+124ab113,3,Individual,Hardware,48,707.93
+12abd240,1,Individual,Software,86,933.12
+12be6f16,1,Individual,Software,131,646.18
+12db8703,3,Individual,Software,185,262.3
+13099ba5,1,Small Business,Hardware,221,1024.71
+130b5bf7,1,Individual,Software,346,1421.27
+13914bcd,2,Enterprise,Hardware,183,616.02
+13a2957c,4,Small Business,Software,120,938
+13c06988,3,Individual,Hardware,13,418.57
+1417bf8b,2,Individual,Software,85,137.69
+147bba4e,1,Small Business,Hardware,238,701.24
+14ccabb0,1,Individual,Services,165,745.94
+14dbabf2,2,Individual,Hardware,280,1008.66
+14f3b59b,4,Individual,Hardware,349,950.51
+15b17277,2,Enterprise,Software,35,790.25
+15b75862,2,Small Business,Services,39,416.74
+161a35e8,2,Individual,Software,5,1090.49
+1682fece,2,Individual,Services,107,555.53
+16bbe6f3,1,Individual,Software,13,1267.29
+16e267d1,4,Individual,Software,317,1003.73
+17cd4b1f,4,Individual,Software,259,1437.52
+18629c07,4,Individual,Services,228,1499.82
+18a58ad6,2,Small Business,Hardware,306,1287.09
+193e196e,3,Individual,Software,134,705.58
+195650a5,3,Individual,Hardware,45,435.88
+19b557ef,2,Individual,Hardware,310,609.31
+1a4f77a2,5,Small Business,Services,138,274.16
+1a6dfa7d,2,Individual,Hardware,248,588.01
+1ace8cee,1,Individual,Software,231,1009.18
+1b7b18a2,2,Individual,Services,179,894.45
+1bb55542,4,Small Business,Services,272,1275.45
+1bd77b4f,1,Individual,Services,86,524.86
+1bd897ab,2,Small Business,Software,131,181.81
+1bfcc3c0,1,Small Business,Services,41,1304.77
+1c081f4f,2,Individual,Hardware,77,1452.28
+1c0c5a36,4,Individual,Services,320,1191.91
+1c6671a5,3,Individual,Software,104,641.7
+1c77c359,1,Individual,Hardware,235,1420.1
+1cc4617f,1,Individual,Software,304,853.34
+1cc47167,3,Individual,Software,4,908.22
+1cdb6bd5,3,Individual,Hardware,226,277.95
+1ceebf8b,3,Individual,Software,296,142.97
+1d721865,1,Individual,Services,159,1263.96
+1d8d6a5f,1,Individual,Software,305,1097.79
+1da1ae9f,1,Enterprise,Hardware,237,732.33
+1dfa4dea,1,Enterprise,Software,6,902.34
+1e43de3f,1,Individual,Hardware,88,284.28
+1e44f29a,2,Small Business,Software,63,1181.07
+1ea1bccb,1,Individual,Hardware,16,353.36
+1f3ce4d0,1,Small Business,Hardware,357,1054.48
+1f94b85b,2,Individual,Software,190,780.22
+1fe56272,1,Individual,Software,14,1240.35
+20189846,1,Enterprise,Software,254,910.22
+20a6cff6,2,Small Business,Software,316,173.04
+20d88f66,4,Enterprise,Software,65,945.22
+2.10E+09,2,Small Business,Hardware,207,1355.32
+2118faf8,3,Individual,Software,40,344.08
+2142dbb3,1,Enterprise,Software,83,966.57
+22100aa8,1,Small Business,Software,39,244.8
+224c9ed0,2,Individual,Services,41,1258.97
+22cf5533,1,Small Business,Hardware,75,500.16
+22d44749,1,Individual,Software,135,1074.38
+22fbd44c,1,Individual,Services,18,300.43
+23016188,3,Individual,Software,154,499.57
+231f7567,3,Small Business,Software,134,81.13
+23805976,2,Enterprise,Software,224,1231.73
+2431afe2,1,Individual,Software,318,827.34
+2466ac4f,3,Individual,Software,180,169.24
+2495b3c4,1,Individual,Hardware,124,768.27
+2574928f,1,Small Business,Software,318,913.56
+25a7b653,2,Small Business,Hardware,8,401.55
+260f8c3b,5,Individual,Hardware,223,1308.83
+263036b4,2,Small Business,Software,246,1109.75
+26639a19,1,Small Business,Hardware,171,289.85
+266e3f0d,2,Individual,Services,255,1356.77
+26ac046e,1,Small Business,Software,146,620.45
+26d3ed2d,2,Individual,Hardware,47,766.2
+26d75dac,2,Small Business,Services,357,193.2
+26f6d890,3,Small Business,Services,193,577.79
+2724d2f4,4,Individual,Software,263,1163.57
+273047f5,3,Individual,Hardware,224,1037.81
+27426a5f,1,Small Business,Software,236,361.72
+27463ab0,2,Individual,Hardware,71,519.66
+27910f7c,1,Individual,Software,225,684.34
+27b862f2,2,Individual,Software,306,1008.12
+282582cc,3,Small Business,Hardware,251,1438.22
+2866535e,2,Individual,Hardware,16,83.37
+28ebeb96,2,Small Business,Hardware,45,1437.69
+290f2ca9,2,Individual,Software,85,988.75
+2a867c1a,4,Individual,Software,298,1383
+2aaa89c0,3,Individual,Software,201,432.65
+2ae1403d,5,Individual,Services,226,288.77
+2b1a5947,4,Individual,Hardware,323,609.93
+2b29d356,2,Enterprise,Software,79,345.59
+2b2cf407,2,Enterprise,Software,302,640.58
+2ba130bb,1,Individual,Services,250,706.33
+2bc041e0,1,Individual,Hardware,134,214.48
+2c8e2234,1,Enterprise,Hardware,38,589.35
+2ccb21b9,2,Individual,Software,54,1226.89
+2cd4b64e,3,Individual,Software,261,726.75
+2cd75963,1,Individual,Software,156,1353.24
+2d26ed98,2,Individual,Software,322,607.6
+2d616a5e,1,Individual,Software,215,1493.34
+2d6839a9,2,Individual,Software,162,1475.48
+2dc4dab8,1,Small Business,Software,241,1273.48
+2dd96a88,1,Individual,Services,3,1313.09
+2e226760,3,Individual,Software,130,521.02
+2e88928f,1,Individual,Hardware,330,62.07
+2eb2b1ef,1,Individual,Hardware,151,785.03
+2ec51310,5,Individual,Services,216,354.53
+2ef8953c,2,Small Business,Software,304,936.08
+2f04324b,3,Individual,Software,354,400.72
+2f1940ec,1,Individual,Software,123,850.41
+2f574f05,2,Small Business,Software,344,1280.89
+2f7f3a99,2,Small Business,Software,181,538.1
+2fd084e3,1,Small Business,Services,143,1173.23
+2fd62ec0,2,Individual,Software,95,1212.63
+300423c0,1,Individual,Software,171,427.74
+30096f2b,3,Individual,Services,71,612.48
+30ccea05,1,Individual,Software,20,530.97
+31e59ca5,2,Individual,Services,268,1169.06
+32251753,1,Small Business,Services,1,1033.11
+3233adf1,1,Individual,Hardware,64,1097.35
+32422b64,2,Small Business,Hardware,45,561.52
+325efca1,1,Individual,Software,244,1021.65
+3269502e,1,Individual,Services,146,1195.42
+326fb0f9,1,Individual,Hardware,158,526.67
+329bca5b,1,Small Business,Hardware,143,820.14
+32a97f1e,2,Small Business,Services,37,516.08
+32d637dc,1,Small Business,Hardware,200,502.16
+335d89d9,2,Small Business,Software,143,300.21
+3371c03c,1,Enterprise,Software,74,179.71
+337862c1,2,Individual,Hardware,156,822.89
+339b9965,3,Small Business,Software,44,739.35
+33bacddb,2,Individual,Hardware,359,682.5
+33d0be01,5,Individual,Hardware,222,175.31
+3415be01,1,Individual,Hardware,258,1096.61
+34208725,4,Individual,Software,84,538.65
+3442225c,1,Individual,Services,257,1100.16
+3451872c,3,Individual,Software,173,958.52
+348b9ebc,1,Individual,Services,225,682.24
+34fa6a77,1,Small Business,Software,343,985.17
+35448c80,3,Individual,Services,289,871.75
+354c41da,3,Individual,Services,79,1485.47
+35b261fb,1,Small Business,Software,185,1097.35
+35b8a6fd,2,Small Business,Hardware,343,1102.92
+35e9a14a,1,Individual,Software,98,109.76
+3.63E+05,1,Individual,Hardware,13,1233.82
+362e86f1,1,Small Business,Software,187,1068.22
+36c65ed6,1,Individual,Software,213,56.08
+36f19d9c,2,Individual,Hardware,197,993.22
+3743f462,1,Individual,Services,191,449.41
+37523df5,3,Small Business,Software,319,464.07
+37954076,1,Individual,Software,65,238.12
+37fcc593,2,Individual,Hardware,342,1118.8
+38389b31,2,Individual,Software,25,614.09
+3839dc38,1,Individual,Software,275,958.5
+384c2021,1,Individual,Hardware,56,620.77
+388afe54,2,Individual,Software,183,531.98
+38ec702c,1,Small Business,Software,285,1130.84
+393682c0,1,Small Business,Software,130,737.56
+396a1e69,2,Enterprise,Software,133,66.91
+3998d575,3,Enterprise,Services,149,1045.47
+39eb4030,1,Individual,Hardware,168,1471.66
+39ff1e3e,1,Individual,Software,311,64.87
+3a8e7429,2,Individual,Services,211,800.36
+3ab4cbc4,1,Individual,Software,210,901.77
+3b4d9257,1,Small Business,Software,258,390.4
+3b62acc5,1,Small Business,Software,314,1443.78
+3bd89c89,1,Small Business,Software,158,1131.63
+3bdc3ed4,1,Individual,Software,151,891.91
+3bfbf350,3,Individual,Software,137,1283.36
+3c57c3ec,1,Individual,Software,174,1049.14
+3c6cabd6,1,Individual,Software,354,958.4
+3c87b154,2,Individual,Software,91,385.64
+3cc5db6c,1,Individual,Software,203,681.75
+3cdeaa6d,4,Individual,Hardware,242,543.65
+3cef4876,2,Small Business,Software,162,99.98
+3d30a5d7,1,Individual,Software,258,500.96
+3d59f416,4,Enterprise,Software,108,1303.14
+3df1456c,2,Individual,Services,213,249.01
+3e279668,2,Individual,Software,275,762.03
+3e773300,1,Small Business,Software,254,1374.13
+3e7d11fe,2,Small Business,Software,168,147.41
+3eab0c27,1,Individual,Hardware,272,1275.97
+3ecfde64,1,Individual,Software,148,149.39
+3ed4470a,1,Small Business,Software,315,1483.01
+3efdeac9,1,Individual,Services,143,745.45
+3f8f4bbc,4,Enterprise,Hardware,258,1147.93
+3fdd953a,1,Individual,Services,305,835.55
+40d1585b,1,Small Business,Software,208,256.87
+414e214f,3,Individual,Software,36,1287.13
+41af056b,4,Individual,Services,13,1435.99
+41b1965d,2,Individual,Services,249,1195.01
+41d70380,3,Enterprise,Services,296,75.68
+421405fe,1,Individual,Software,243,1364.42
+421b31f1,2,Individual,Software,99,179.67
+42b520fe,2,Enterprise,Software,178,877.54
+430691d4,2,Individual,Software,27,1164.14
+4457946e,1,Individual,Services,272,718.31
+44632cc0,4,Individual,Software,212,1077.95
+44b5c298,2,Small Business,Software,200,286.44
+44d4e396,1,Small Business,Hardware,349,698.4
+4.53E+28,5,Small Business,Services,76,1403.88
+453bf029,4,Enterprise,Services,303,867.64
+45412bff,5,Small Business,Software,55,779.58
+464370a3,2,Individual,Services,354,1046.16
+47d5966b,1,Small Business,Services,243,1021.17
+47ea88ee,1,Individual,Services,329,1490.34
+47f04505,1,Individual,Software,312,1029.32
+4821c662,2,Enterprise,Services,290,838.64
+4842186e,4,Small Business,Hardware,233,766.12
+486fdca4,3,Individual,Hardware,301,856.91
+488c02d3,4,Small Business,Software,129,1147.89
+48f608d5,1,Individual,Software,206,1409.35
+4905d92d,3,Enterprise,Hardware,267,997.57
+493db821,1,Individual,Hardware,37,1406.64
+494612cb,3,Individual,Software,2,771.37
+497646c3,2,Individual,Hardware,174,951.67
+49785033,2,Individual,Software,98,1330.95
+49787c41,1,Enterprise,Software,50,1400.49
+49ad7449,1,Individual,Hardware,275,877.88
+49dc968c,1,Enterprise,Hardware,95,694.09
+4a2630a3,1,Small Business,Services,126,1394.81
+4a559ef6,4,Individual,Hardware,310,1233.1
+4aca9042,2,Enterprise,Hardware,314,1032.71
+4ad26bef,2,Individual,Software,217,1280.52
+4ad2ab00,5,Individual,Services,28,505.08
+4aef0613,1,Individual,Software,66,805.49
+4aefcd9a,2,Individual,Software,68,657.08
+4b0dd69d,2,Individual,Hardware,76,973.01
+4b2466d9,3,Small Business,Software,17,59.02
+4bb46999,1,Individual,Hardware,95,353.49
+4c4aa6ea,1,Individual,Hardware,131,175.29
+4cbacc2d,2,Small Business,Services,262,858.18
+4ce0d174,2,Small Business,Software,323,1441.64
+4cf9af65,1,Small Business,Services,7,1459.89
+4d40d9da,1,Individual,Software,230,644.08
+4dda85e8,5,Small Business,Hardware,175,755.21
+4dfe45a0,2,Individual,Hardware,130,1352.87
+4e2d1995,2,Individual,Software,139,531.27
+4e767ae5,3,Small Business,Hardware,36,567.45
+4ef90ad9,4,Individual,Software,269,509.42
+4f450045,1,Small Business,Software,198,986.38
+4f5123d7,2,Individual,Software,249,369.23
+4f734e16,2,Small Business,Hardware,218,618.6
+4f8d3c8a,1,Small Business,Software,274,1457.48
+4fb76b27,1,Small Business,Software,12,1357.99
+5093dd0d,3,Small Business,Services,268,370.95
+50a57cd2,4,Individual,Hardware,131,1201.35
+50c23b10,2,Small Business,Software,67,992.26
+50d73ff4,1,Individual,Hardware,65,1330.33
+516f86b4,1,Small Business,Hardware,218,1043.35
+51741465,2,Individual,Software,329,675.51
+519dab53,4,Individual,Hardware,234,935.19
+5233ed60,2,Individual,Services,135,93.24
+52542b38,5,Individual,Software,39,245.84
+529d6aa7,1,Individual,Services,314,282.38
+52b9cabe,1,Individual,Software,306,1010.3
+52be49a7,5,Small Business,Services,96,887.3
+533bac41,2,Individual,Hardware,152,130.6
+5373ab64,1,Enterprise,Software,303,1192.61
+53a8f365,2,Small Business,Software,226,1473.4
+53cd71d2,2,Small Business,Software,20,630.33
+53ec7fc8,3,Individual,Hardware,244,442.66
+53f9b541,1,Individual,Software,173,1497.17
+544c3eb4,1,Individual,Hardware,170,1290.91
+545252f7,2,Enterprise,Services,27,854.94
+545e10be,1,Small Business,Hardware,356,1269.29
+548dd2bc,1,Individual,Software,9,859.85
+54a18f88,1,Small Business,Services,337,1040.75
+54d9bc6a,1,Individual,Software,99,464.86
+54fca0c8,1,Individual,Software,318,461.94
+551783f1,3,Small Business,Hardware,146,1310.05
+5527126b,3,Small Business,Services,347,992.72
+552aa7a9,5,Individual,Services,280,1154.3
+553c0734,3,Small Business,Hardware,134,1015.01
+55dbebab,3,Individual,Services,353,1012.12
+55eb361e,2,Individual,Software,90,347.43
+5608fc0c,3,Small Business,Software,84,907.29
+56118cac,1,Small Business,Hardware,24,878.5
+562a3d4b,1,Individual,Services,125,200.77
+5652b097,2,Small Business,Hardware,353,879.99
+566a32ca,4,Individual,Software,177,717.11
+5679d0d1,1,Individual,Services,24,1095.47
+56963975,2,Enterprise,Software,304,491.97
+569b53d8,1,Individual,Software,29,955.06
+56ea6533,1,Individual,Software,207,549.87
+57b00f47,1,Individual,Software,137,993.65
+57bf21e1,1,Small Business,Services,265,598.57
+57e35b52,1,Small Business,Services,109,133.48
+58669c5d,2,Enterprise,Software,306,1346.38
+587c3fa8,1,Individual,Services,324,118.85
+58a9356d,1,Enterprise,Software,194,1103.32
+58c5df12,1,Small Business,Software,99,607.96
+5.92E+16,3,Individual,Hardware,189,963.42
+592650c4,1,Individual,Hardware,269,260.8
+598a1d3f,3,Individual,Software,194,440.15
+59bc400d,1,Enterprise,Hardware,274,435.87
+5a362481,4,Small Business,Hardware,310,661.29
+5aab1c8b,2,Individual,Hardware,27,1307.23
+5b00d0dc,3,Individual,Hardware,140,67.06
+5b84bb1d,2,Individual,Software,19,944.64
+5bdb5d4f,3,Small Business,Software,132,1497.63
+5c05de51,3,Individual,Software,216,847.33
+5ca45840,2,Individual,Software,60,705.7
+5cb87a91,2,Individual,Services,248,1435.38
+5cc63a4a,1,Small Business,Services,156,856.38
+5cfc65f2,1,Individual,Services,314,529.32
+5d6f19ac,2,Individual,Software,242,483.57
+5dc507d5,3,Small Business,Software,129,338.77
+5e128e8f,1,Small Business,Hardware,192,1188.74
+5ebc9402,4,Individual,Software,308,1286.96
+5f192110,3,Individual,Hardware,18,899.92
+5f228ce7,2,Individual,Software,195,112.01
+5f2c35e6,2,Individual,Software,254,1445.23
+5f8af2f2,5,Individual,Hardware,231,847.22
+5fd08a1c,4,Enterprise,Software,198,438.34
+5fefd064,2,Individual,Software,283,423.2
+60199a3c,1,Small Business,Software,34,1359.93
+602435b9,2,Small Business,Software,214,515.29
+605038b7,1,Individual,Hardware,295,238.75
+608d46dc,2,Individual,Software,263,482.7
+60ccfe1a,3,Individual,Software,215,678.5
+60eae691,3,Individual,Software,275,286.59
+6118b522,1,Small Business,Software,48,375.08
+61f2f79f,2,Small Business,Software,41,402.69
+6272ef36,1,Individual,Services,20,1482.67
+6288cdb4,1,Small Business,Software,227,1312.73
+6336e788,1,Individual,Hardware,226,885.3
+63dffe6b,4,Individual,Hardware,120,142.68
+645c6085,2,Individual,Software,84,1054.53
+6486df79,2,Enterprise,Software,358,970.7
+64defb27,1,Individual,Services,353,1052.61
+64df2339,1,Enterprise,Software,118,1408.31
+64e66e42,2,Small Business,Software,304,597.05
+652ef3a4,2,Individual,Software,21,920.99
+653d4490,1,Individual,Hardware,233,229.5
+657f7fed,1,Individual,Services,58,371.22
+65d2f722,1,Individual,Software,2,460.03
+660c7ffd,2,Individual,Services,90,763.54
+66782c24,1,Enterprise,Hardware,293,384.46
+66a82ff7,3,Individual,Hardware,164,243.53
+66b7f136,1,Small Business,Software,258,1104.1
+67440d92,1,Enterprise,Software,237,366.48
+6756c984,1,Individual,Software,333,91.11
+67bf7564,1,Small Business,Hardware,297,747.53
+67dec9d3,1,Individual,Software,2,1035.92
+67e2412f,2,Small Business,Hardware,69,1065.43
+67f5beed,5,Small Business,Hardware,90,1350.48
+6872349f,1,Individual,Services,342,646.56
+68f7fde5,1,Individual,Software,338,1400.44
+693b0481,3,Small Business,Hardware,146,1440.16
+69613c63,1,Individual,Software,74,964.73
+69ef9036,5,Small Business,Hardware,179,311.76
+6a13d063,2,Individual,Software,344,408.92
+6a1b761d,1,Small Business,Software,35,1209.91
+6a4f9bb9,1,Small Business,Hardware,196,1056.06
+6a9a3f42,1,Small Business,Software,13,1120.67
+6b3d0017,1,Individual,Hardware,100,381.34
+6be1fca4,2,Individual,Hardware,110,1060.04
+6c5070c0,2,Individual,Software,182,1182.64
+6c52dccc,3,Individual,Software,141,350.49
+6c71a547,1,Individual,Services,73,1233.1
+6d93b927,1,Small Business,Hardware,102,900.21
+6eff449b,1,Enterprise,Hardware,19,1197.89
+6f52b4fc,4,Small Business,Software,112,1162.66
+6fcb6d88,2,Small Business,Hardware,313,118.73
+704bc8ca,2,Small Business,Software,53,1269.6
+70a5dd6b,3,Individual,Software,143,221.95
+70aea334,1,Individual,Software,90,1239.71
+71a962d3,5,Small Business,Hardware,230,1135.1
+71c023c4,4,Individual,Software,192,1086.44
+7.22E+282,4,Individual,Software,321,1331.61
+726eac65,2,Individual,Hardware,231,203.02
+727811a8,2,Individual,Hardware,64,1175.82
+729342a2,3,Small Business,Services,148,1475.28
+72b35719,2,Individual,Software,68,74.35
+73067100,2,Individual,Services,169,329.36
+7319a103,2,Enterprise,Software,63,1294.99
+73fef6cf,3,Individual,Software,14,1499.58
+74130410,3,Small Business,Software,151,1468.59
+7419b5b8,3,Individual,Software,204,402.34
+744c5071,1,Individual,Hardware,60,1431.62
+7466607d,5,Individual,Hardware,233,551.66
+74ca8221,1,Individual,Software,207,875.36
+756b7903,1,Individual,Hardware,314,1360.11
+75880142,5,Small Business,Services,84,764.94
+75b079e4,2,Individual,Services,159,1451.04
+761ea184,3,Individual,Software,65,1284.75
+76736e9a,1,Individual,Hardware,314,143.83
+779d46bc,4,Enterprise,Software,304,524
+77b713d1,3,Individual,Software,191,544.88
+781ce977,1,Small Business,Software,195,55.21
+7854f02b,5,Small Business,Services,271,468.63
+79049d60,3,Small Business,Software,259,894.94
+7905312e,2,Individual,Software,349,1141.6
+794a178e,4,Individual,Software,134,294.84
+7.99E+85,2,Individual,Software,170,860.19
+79ddf379,2,Individual,Hardware,251,292.34
+7a7972c8,1,Individual,Hardware,47,777.26
+7b022ad4,2,Individual,Hardware,213,1314.69
+7b1b3b1c,1,Individual,Services,302,1472.87
+7b29605e,1,Individual,Software,70,69.43
+7b3049fc,1,Small Business,Software,186,1055.57
+7b37988f,3,Individual,Services,332,901.91
+7b93fabb,1,Small Business,Software,262,705.34
+7bc81927,3,Individual,Services,346,1300.91
+7bfaa9b9,1,Individual,Services,108,691.15
+7c1450a0,2,Small Business,Software,4,1249.74
+7c6d84d6,1,Individual,Services,14,897.55
+7c71179e,1,Individual,Software,213,1382.93
+7cdd0da5,2,Small Business,Software,262,322.95
+7ce6a2e0,1,Small Business,Hardware,292,247.85
+7d3f125c,1,Individual,Hardware,87,275.98
+7d6fb04d,2,Individual,Software,279,671.98
+7de02079,3,Individual,Hardware,347,735.1
+7de29786,2,Individual,Services,343,420.21
+7de9760e,3,Individual,Hardware,228,762.58
+7e132570,1,Individual,Hardware,121,309.94
+7e302db4,1,Small Business,Software,215,1145.98
+7e4069f5,1,Individual,Hardware,339,1309.14
+7ef31a5b,2,Small Business,Hardware,162,966.39
+7efec37b,3,Enterprise,Hardware,249,1070.53
+7f2908d6,3,Individual,Software,282,1336.34
+7f2fb6d9,2,Individual,Hardware,162,296.62
+7faef3a2,2,Small Business,Software,138,784.8
+7fc4f60e,1,Individual,Services,41,186.61
+8016388a,3,Small Business,Software,281,820.76
+80a25c41,2,Individual,Hardware,209,649.52
+80c9334f,1,Small Business,Software,105,788.56
+8136a377,1,Individual,Services,163,1127.58
+8145d9d3,4,Individual,Services,135,615.8
+81e53d22,4,Small Business,Hardware,33,1380.56
+822bc2c6,2,Individual,Services,96,925.75
+826a290a,1,Individual,Software,50,456.71
+8271a07c,1,Individual,Software,200,695.86
+827aeaa2,4,Small Business,Software,183,642.66
+83422c21,2,Enterprise,Services,186,107.6
+83807278,1,Individual,Software,124,136.97
+83eeeafe,3,Individual,Hardware,203,1409.64
+84696a3a,1,Individual,Software,116,279.88
+8483e8a3,3,Individual,Software,310,593.07
+84908d18,3,Small Business,Software,307,1283.11
+84a15560,2,Individual,Software,186,1052.36
+855fc939,2,Individual,Software,229,1379.12
+857601f6,2,Individual,Hardware,124,142.67
+85a056bb,2,Individual,Software,320,119.22
+85a3bbde,3,Individual,Software,10,1054.24
+85c015c7,4,Individual,Hardware,116,93.12
+85dc4432,2,Individual,Software,257,1441.1
+86088995,1,Small Business,Hardware,212,1197.88
+86252c6e,3,Small Business,Software,276,561.79
+862d3fa3,2,Small Business,Software,252,914.34
+863332c6,1,Small Business,Hardware,198,857.15
+86760740,2,Individual,Software,280,59.06
+867cb0a4,1,Small Business,Hardware,61,690.96
+86c2aa91,2,Individual,Software,251,537.8
+86c6f27c,1,Small Business,Hardware,179,447.11
+86c87b50,1,Small Business,Software,18,1256.03
+86ee7fe5,5,Individual,Services,95,954.91
+8716e6e6,1,Small Business,Software,10,383.62
+87718747,2,Enterprise,Hardware,215,679.9
+87a6c576,2,Individual,Software,56,840.97
+87e382c4,1,Individual,Software,220,439.62
+88947d5c,1,Small Business,Software,39,344.96
+88e5cc42,2,Individual,Hardware,70,259.14
+890fc70b,4,Individual,Services,259,1457.98
+89484bb8,5,Individual,Services,280,1187.11
+89620751,1,Individual,Hardware,152,262.85
+89be9bd8,1,Small Business,Services,15,912.19
+89fedc4b,2,Individual,Software,317,468.83
+8a4d3fbe,2,Individual,Services,162,1376.71
+8ae0697f,2,Individual,Hardware,73,1083.61
+8af66b67,2,Individual,Hardware,3,764.4
+8b3e1dab,1,Individual,Software,128,658.95
+8b53e889,1,Individual,Hardware,307,887.78
+8b5f784a,1,Individual,Services,113,1135.93
+8b8562e7,1,Individual,Services,357,395.09
+8b899e9b,2,Individual,Hardware,114,211.47
+8c3706ea,1,Small Business,Software,215,651.86
+8c8c30a8,2,Small Business,Software,161,888.43
+8ccb2c3e,1,Individual,Services,297,1355.9
+8dabb553,3,Small Business,Hardware,186,891.05
+8dd7b6ce,1,Small Business,Software,1,1402.16
+8deac8cf,4,Individual,Services,323,1315.27
+8e6377b7,1,Small Business,Software,180,274.45
+8e7add3f,4,Individual,Hardware,97,279.33
+8e894f4f,1,Small Business,Hardware,280,71.81
+8f0713ac,1,Enterprise,Software,157,749.12
+8f59ab9c,2,Individual,Hardware,201,1390.72
+8fa0e3c7,2,Individual,Software,159,431.44
+8fad7755,1,Individual,Software,198,514.14
+8fad88d6,1,Individual,Services,92,1302.72
+8fddc73c,4,Individual,Software,37,523.43
+8ffbf6c3,1,Enterprise,Services,50,749.43
+905dd692,2,Small Business,Software,32,958.84
+912e58cc,2,Small Business,Services,59,1313.73
+919be785,3,Individual,Software,249,461.23
+91ad0b7e,4,Individual,Software,268,445.05
+91fdfde2,1,Small Business,Hardware,301,163
+9251c906,2,Small Business,Hardware,136,1422.85
+9267435d,4,Individual,Software,58,1205.32
+92724275,1,Small Business,Hardware,348,407.25
+92848ba2,4,Individual,Software,129,1238.71
+92b08439,3,Small Business,Services,326,489.64
+92bd5c34,2,Small Business,Hardware,89,783.66
+92dfa0e0,1,Small Business,Software,153,763.39
+92e861f9,1,Individual,Software,246,1398.14
+930f7064,2,Small Business,Hardware,151,860.35
+9340bd64,2,Individual,Software,61,674.98
+934ef98b,1,Individual,Services,253,790.13
+9350561d,1,Individual,Hardware,1,495.48
+940b191a,1,Small Business,Services,350,678.75
+9419f63e,2,Individual,Software,146,586.05
+9554710f,3,Individual,Services,118,1376.87
+9575839a,1,Individual,Software,118,586.64
+95776ad7,1,Small Business,Software,347,564.8
+95a82be8,1,Individual,Software,229,689.71
+95f760c3,1,Individual,Software,80,1093.51
+9.60E+97,1,Individual,Software,103,507.33
+96036aaa,2,Small Business,Software,213,316.86
+9615791e,3,Individual,Hardware,23,722.15
+9672e0e0,2,Individual,Services,80,1117.85
+9744549e,2,Individual,Services,271,1065.84
+97efd5a6,4,Enterprise,Hardware,16,459.35
+9803edc0,2,Small Business,Software,29,809.44
+983874c0,1,Individual,Software,64,1305.51
+9895272e,1,Individual,Hardware,49,734.99
+98ab6b1c,2,Enterprise,Hardware,116,1088.9
+994db4ce,1,Enterprise,Services,224,1395.26
+998a32e6,1,Individual,Software,86,1441.82
+99b19afe,4,Individual,Software,118,1493.44
+99cc384d,3,Individual,Hardware,321,1128.32
+99cdb646,1,Small Business,Software,156,498.6
+99dc0cdb,1,Individual,Software,324,1093.71
+9a03d6b6,2,Individual,Software,222,1111.73
+9a460c95,4,Individual,Software,213,670.8
+9b40ac6e,2,Individual,Software,344,1493.61
+9b6ca873,1,Enterprise,Software,107,996.19
+9ba7063f,2,Small Business,Services,116,192.45
+9be20597,2,Individual,Services,205,1043.68
+9bf17cd2,1,Small Business,Software,281,119.47
+9c0c203a,3,Enterprise,Software,75,690.28
+9cf03f36,2,Individual,Software,196,293.8
+9d04aee7,1,Individual,Software,98,789.4
+9d6ccf9c,5,Individual,Hardware,89,1421.67
+9d93a19d,1,Small Business,Services,85,677.53
+9da98d65,3,Individual,Software,353,1479.4
+9df19af9,1,Individual,Software,210,801.39
+9e04641e,1,Individual,Software,148,637.07
+9e216a7b,2,Individual,Software,275,1340.69
+9e231972,4,Individual,Software,116,315.58
+9e29a73f,3,Small Business,Software,274,1245.66
+9e4dd0fa,4,Individual,Services,265,126.45
+9e5e98fd,1,Individual,Services,117,1122.83
+9ea87e09,2,Individual,Services,137,1008.94
+9ebd391e,2,Individual,Services,39,1349.06
+9ecf72d1,2,Individual,Hardware,286,638.87
+9ed32738,2,Enterprise,Hardware,334,1373.7
+9ee8aba0,2,Individual,Services,340,296.09
+9f0db3bc,4,Individual,Software,244,1186.61
+9f6c17f7,3,Individual,Software,229,660.91
+9fba8f24,2,Individual,Hardware,153,831.29
+a02cb685,2,Individual,Software,26,144.62
+a045f9fc,4,Individual,Hardware,302,1169.43
+a05b9545,1,Individual,Services,339,1347.38
+a07443d5,1,Individual,Software,235,63.15
+a0c4fb6a,1,Individual,Software,160,1202.85
+a0c5ab55,1,Individual,Services,336,1309.3
+a0c8a4fa,2,Individual,Software,167,944.24
+a0d17e93,2,Small Business,Software,278,1428.99
+a168810d,5,Enterprise,Hardware,119,1050.89
+a185eb2a,3,Individual,Services,358,950.74
+a2027b57,2,Small Business,Hardware,122,1408.27
+a257e5da,1,Individual,Software,352,544.31
+a2903387,1,Small Business,Hardware,354,1147.33
+a2bcf943,1,Individual,Software,137,421.36
+a2f46408,2,Individual,Services,68,158.38
+a339594a,1,Individual,Software,108,234.82
+a361cf3a,1,Small Business,Software,226,593.48
+a36f0a3b,3,Individual,Software,141,363.34
+a3b87d75,1,Individual,Hardware,186,1100.27
+a3cd0c0e,1,Small Business,Software,236,90.53
+a4982a18,1,Individual,Hardware,239,1155.24
+a4f4be10,1,Individual,Services,261,1293.4
+a50b633c,1,Individual,Software,16,687.34
+a51288d4,2,Individual,Hardware,190,93.19
+a51d7cb5,1,Small Business,Software,42,564.03
+a51e4db1,1,Small Business,Software,237,834.97
+a526bc96,3,Individual,Services,353,1117.96
+a5b151a0,4,Small Business,Hardware,136,1336.95
+a5f6e4d6,2,Individual,Software,317,1356.48
+a61a113f,3,Individual,Hardware,232,1390.94
+a65ed2ca,4,Individual,Hardware,330,753.57
+a67a6d0c,4,Individual,Services,212,684.83
+a6deb174,5,Individual,Services,84,1090.56
+a6e0d71f,1,Individual,Software,17,529.35
+a7383c62,1,Individual,Services,340,1211.1
+a7b79788,1,Individual,Software,264,611.21
+a7bb1e1f,1,Enterprise,Software,328,1080.93
+a7ddbee7,1,Individual,Services,101,1225.23
+a809d8d3,3,Individual,Software,264,788.58
+a8106e47,2,Small Business,Software,92,677.06
+a822f678,1,Individual,Software,353,583.17
+a84afc0c,2,Small Business,Software,291,83.33
+a86361e3,2,Individual,Hardware,346,305.45
+a88832c3,2,Individual,Hardware,57,936.52
+a9663864,1,Small Business,Software,241,1100.43
+a96ff789,1,Individual,Hardware,89,176.68
+a989d17b,1,Individual,Services,196,1044.83
+a9ddb25b,2,Individual,Hardware,190,696.76
+a9e81dd0,3,Enterprise,Software,350,697.35
+aa4fc641,1,Small Business,Software,189,122.79
+aa5d5317,1,Small Business,Software,64,989.25
+aa6637a1,1,Small Business,Hardware,118,993.9
+ab0e3607,1,Small Business,Software,151,313.93
+ab17f03e,2,Individual,Software,113,947.06
+ab316e3b,2,Individual,Software,42,740.39
+ab58e63f,1,Individual,Hardware,327,651.98
+ab841471,1,Individual,Software,133,177.72
+abaebdc8,2,Individual,Hardware,288,779.22
+abd40625,3,Individual,Hardware,147,214.88
+ac085fc2,2,Individual,Software,260,1106.63
+ac0ee8c8,1,Small Business,Software,188,77.33
+ac35b1f7,2,Small Business,Software,327,119.18
+ac37af7b,1,Individual,Software,245,1292.35
+ac76bc53,1,Individual,Hardware,2,196.58
+acde101b,2,Small Business,Software,267,86.71
+adc0e3b2,1,Individual,Hardware,96,1455.99
+ae7d1e59,2,Individual,Software,26,863.46
+af6cf42e,3,Individual,Services,17,52.74
+af75173e,1,Individual,Software,240,898.28
+afa36cb6,2,Individual,Software,59,1232.62
+afdf7e33,1,Individual,Software,65,1046.07
+b0009037,1,Individual,Hardware,286,790.45
+b0e13070,1,Individual,Software,153,1483.05
+b0e5dde4,1,Individual,Software,263,1452.36
+b11533b9,3,Individual,Hardware,289,1022.84
+b18fa873,4,Individual,Software,311,458.34
+b1d75f8e,3,Enterprise,Software,18,921.53
+b20327fc,2,Individual,Software,65,1380.99
+b2084cdf,3,Enterprise,Hardware,340,882.93
+b26b7b4f,5,Individual,Hardware,313,218.14
+b2a0d8eb,1,Individual,Software,315,97.31
+b2a7a1be,1,Small Business,Software,215,1188.69
+b327f198,2,Small Business,Software,139,1457.89
+b34fa5b4,3,Small Business,Services,305,881.55
+b3811f60,1,Enterprise,Services,80,400.77
+b3e74600,2,Small Business,Software,262,827.46
+b48b5743,2,Enterprise,Hardware,81,859.9
+b4c2a0df,1,Individual,Software,159,161.12
+b501989e,1,Individual,Software,325,577.94
+b502077d,1,Small Business,Services,283,1393.14
+b573ca61,5,Individual,Services,343,1387.87
+b579aab4,3,Individual,Services,68,595.87
+b5c3fbfc,1,Individual,Hardware,50,166.7
+b5e4bc99,1,Individual,Software,354,423.8
+b6385b2a,1,Individual,Software,256,1299.87
+b6515618,1,Individual,Services,109,323.86
+b657eeea,5,Individual,Services,301,886.4
+b6b9f5fc,2,Small Business,Software,334,1427.83
+b6d8c02e,3,Individual,Hardware,206,517.33
+b6fa09fd,4,Enterprise,Hardware,113,1064.75
+b7374345,2,Individual,Services,70,730
+b75cb588,3,Individual,Hardware,225,1314.54
+b7b35eee,5,Small Business,Software,32,1410.14
+b87f9d36,2,Individual,Hardware,123,1091.42
+b92ee9f9,2,Individual,Hardware,25,551.24
+b979f089,4,Individual,Services,181,1297.26
+b984a6c7,2,Small Business,Software,151,1492.21
+b9f65fa9,3,Individual,Software,173,386.7
+ba0c045d,1,Individual,Software,108,817.63
+ba30800a,2,Small Business,Software,304,959.06
+ba573c83,3,Individual,Hardware,80,1499.04
+ba95de3a,2,Individual,Hardware,43,1464.17
+baa4fee4,2,Individual,Hardware,160,1042.17
+bb6fb93d,2,Individual,Hardware,352,325.04
+bb917e1e,2,Individual,Software,340,98.24
+bba80626,1,Enterprise,Software,210,121.4
+bbece215,3,Individual,Software,126,736.25
+bc32ef6d,5,Small Business,Hardware,340,853.68
+bc55e661,1,Individual,Software,222,1443.21
+bc671501,3,Individual,Services,315,1007.78
+bd110656,1,Small Business,Services,224,167.92
+bd3d45a4,1,Individual,Hardware,55,484.96
+bd78b683,4,Small Business,Software,166,1377.13
+bf3a592b,2,Individual,Hardware,354,830.89
+c00980a5,2,Individual,Software,31,309.29
+c034ed67,1,Small Business,Software,350,880.45
+c04954e5,1,Enterprise,Services,242,237.55
+c04cfa94,2,Individual,Hardware,294,964.29
+c086231e,2,Small Business,Hardware,354,1067.86
+c0a016ea,4,Individual,Hardware,18,690.47
+c0a339b6,1,Individual,Hardware,323,968.31
+c0b07946,1,Individual,Software,106,1002.47
+c0e9f9ff,1,Individual,Services,319,816.34
+c14e8aec,1,Individual,Services,178,895.54
+c1679da0,1,Small Business,Hardware,224,485.33
+c1834deb,1,Individual,Hardware,97,1143.47
+c275214b,2,Individual,Software,108,741.65
+c290933d,2,Individual,Services,231,658.19
+c2c24cb2,1,Individual,Hardware,105,852.63
+c2cbd383,2,Individual,Software,61,1085.79
+c371a458,1,Individual,Hardware,180,1104.64
+c37d59c8,2,Small Business,Hardware,65,772.76
+c3e58591,1,Small Business,Hardware,163,873.94
+c3f84854,2,Individual,Hardware,50,1121.05
+c4426847,1,Enterprise,Software,40,1453.18
+c46a2dae,4,Individual,Software,105,1095.77
+c479b257,2,Small Business,Software,311,1037.44
+c4a7ef9b,3,Individual,Software,103,1364.19
+c4f7de35,4,Enterprise,Software,111,758.03
+c56eff74,1,Small Business,Hardware,265,503.83
+c59c3f5d,1,Individual,Software,238,1033.75
+c5c8ed5d,3,Small Business,Hardware,247,310.59
+c5e893ff,1,Small Business,Software,33,487.83
+c5fa3405,2,Individual,Software,88,740.28
+c65b322b,1,Enterprise,Software,4,467.87
+c65fbba8,1,Enterprise,Software,64,578.5
+c6661481,2,Individual,Software,159,866.68
+c696897e,4,Individual,Services,314,1189.35
+c74ef2c4,2,Small Business,Software,55,197.7
+c7705b0f,2,Small Business,Software,255,1105.57
+c7e2a204,1,Small Business,Software,123,855.04
+c7ed5011,3,Individual,Services,195,1136.29
+c81dacfd,2,Individual,Hardware,63,235.62
+c853c125,4,Individual,Software,172,1408.42
+c8606861,4,Small Business,Software,25,1310.08
+c8d1bcf8,1,Small Business,Services,284,1001.39
+c8db2bef,1,Small Business,Software,225,640.57
+c97c571d,1,Individual,Software,41,473.8
+ca247b06,5,Small Business,Software,122,788.49
+ca789b40,3,Small Business,Software,26,813.84
+caa7e643,4,Enterprise,Hardware,266,316.94
+cab9f530,2,Individual,Software,223,1317.93
+cacec407,1,Enterprise,Software,284,685.88
+cb14d4b9,3,Small Business,Hardware,274,310.67
+cb2e62e4,2,Small Business,Software,330,714.68
+cbee0db9,3,Individual,Software,10,1297.32
+cc0d8130,1,Individual,Software,2,1078.97
+cc2997f2,1,Individual,Software,33,229.6
+cc3ba2b1,2,Individual,Software,47,446.63
+cc4bac93,2,Individual,Software,153,458.08
+cc4c6894,1,Individual,Services,277,387.79
+cc9123e6,1,Individual,Software,279,1029.12
+ccc7d991,1,Individual,Software,338,1008.01
+ccd3a67e,2,Individual,Software,119,1234.55
+ccfe4642,2,Individual,Hardware,30,798.93
+ce27a78d,5,Small Business,Software,257,832.88
+ce3d528f,1,Small Business,Hardware,10,371.57
+ce642d92,2,Enterprise,Software,201,959.68
+ce7c5872,2,Enterprise,Hardware,58,313.03
+ce832eb8,1,Small Business,Hardware,232,1424.74
+cf4c5e0c,1,Small Business,Services,156,1004.54
+cffcd253,1,Individual,Software,9,274.69
+d0112ff0,2,Individual,Software,211,286.27
+d0136c96,3,Individual,Services,53,773.64
+d069a420,1,Individual,Hardware,313,744.71
+d0ab7be3,2,Small Business,Services,299,997.97
+d108e734,3,Individual,Hardware,321,674.51
+d129c42c,1,Enterprise,Services,340,846.87
+d1a2b57f,4,Individual,Software,167,941.33
+d1a5b291,1,Individual,Software,325,1270.73
+d21d7ea0,1,Small Business,Software,44,514.4
+d223fa5f,3,Small Business,Services,243,1298.35
+d23814ec,1,Individual,Software,61,1102.07
+d25b4d11,1,Enterprise,Software,164,927.82
+d25c39b5,1,Individual,Software,258,212.78
+d3417e85,2,Individual,Hardware,319,339.07
+d34ad33e,2,Individual,Services,116,233.7
+d35ce193,2,Small Business,Software,49,166.16
+d3970860,2,Individual,Software,302,1059.37
+d3e291fa,3,Small Business,Services,262,623.62
+d42b023d,2,Individual,Software,141,497.93
+d431ecb0,1,Individual,Hardware,174,1003.28
+d437e737,1,Individual,Hardware,136,760.55
+d44b44f2,3,Enterprise,Services,106,386.24
+d51299dc,1,Individual,Services,293,123.24
+d53913e6,3,Individual,Software,252,754.7
+d584ec0d,1,Small Business,Software,46,538.45
+d5f80576,3,Individual,Hardware,150,719.23
+d60953a3,1,Small Business,Hardware,358,1400.3
+d60b76b7,1,Small Business,Hardware,32,716.51
+d633b987,1,Enterprise,Software,122,1303.35
+d6bf164f,4,Individual,Software,209,1207.3
+d6fc23f0,2,Individual,Software,267,754.89
+d7015311,2,Individual,Software,333,1371.57
+d738fd7e,1,Individual,Hardware,294,1170
+d7711b99,2,Individual,Software,303,1229.11
+d89caf1c,1,Individual,Services,132,179.69
+d8bc7fc4,2,Individual,Services,291,650.87
+d8dc2689,3,Individual,Software,52,679.92
+d94c0572,3,Enterprise,Software,66,280.68
+d97334e3,1,Small Business,Hardware,200,729.3
+d978f441,2,Enterprise,Hardware,359,813.64
+d983e2ff,5,Enterprise,Services,31,1154.25
+d9b7c7aa,1,Individual,Software,82,599.48
+d9c975dc,1,Small Business,Software,162,904.86
+d9e61a4d,3,Small Business,Hardware,3,1067.92
+da831eaf,2,Small Business,Hardware,6,69.24
+db89e5f0,1,Individual,Software,138,1162.82
+dbb60b21,1,Small Business,Software,327,703.11
+dbe9d565,2,Small Business,Software,290,1081.4
+dc17ceaf,4,Individual,Services,301,332.69
+dc4efbf0,3,Individual,Services,233,410.37
+dcb9d704,2,Individual,Software,348,604.01
+dcdcb90c,2,Individual,Services,194,916.24
+dd0efff5,1,Individual,Software,314,751.09
+dd50e6d1,1,Individual,Hardware,341,1376.54
+dd71cbee,2,Small Business,Hardware,209,1349.25
+ddba6215,4,Individual,Software,352,423.82
+de1f7069,2,Individual,Software,251,388.27
+de96e258,2,Small Business,Software,260,1263.57
+decf8276,3,Individual,Services,215,365.62
+dfc11577,4,Individual,Services,122,707.92
+dfdd2eef,1,Small Business,Software,307,50.44
+dfe5029f,1,Individual,Software,129,270.71
+e102f4fc,1,Small Business,Software,42,621.5
+e11577d5,2,Small Business,Services,338,1445.64
+e1ac3dce,2,Individual,Hardware,339,871.13
+e1d0fd34,1,Individual,Hardware,212,247.02
+e205fa62,2,Individual,Software,357,1224.2
+e2a00325,2,Individual,Software,309,246.4
+e2a49315,2,Individual,Software,139,250.74
+e2d0d87f,1,Individual,Hardware,307,623.36
+e2e1bc6a,3,Small Business,Hardware,39,1020.81
+e31bdfbf,2,Small Business,Software,100,1114.43
+e37dc32e,3,Individual,Services,100,1148
+e387beab,1,Small Business,Software,205,455.38
+e3a4c4ca,5,Individual,Services,101,1101.21
+e3dc0303,2,Enterprise,Hardware,81,1121.06
+e3efac39,1,Small Business,Hardware,316,165.38
+e4535b8c,1,Small Business,Services,138,876.83
+e47c0e36,1,Enterprise,Hardware,9,123.46
+e4bd1647,3,Individual,Hardware,231,68.44
+e509e397,1,Individual,Software,143,329.73
+e50ef5ff,1,Individual,Software,285,993
+e573e12e,2,Enterprise,Software,169,1300.1
+e5ab04bd,4,Individual,Hardware,54,1385.02
+e6389db7,2,Small Business,Services,346,180.81
+e659e9c4,1,Small Business,Software,314,840.99
+e76702b9,4,Individual,Services,291,936.65
+e77f0000,2,Individual,Software,224,562.91
+e788ee9f,2,Individual,Services,19,1270.83
+e78aea53,3,Individual,Software,242,596.95
+e802cd24,1,Small Business,Software,9,1253.92
+e86c4fbc,1,Individual,Software,206,419.2
+e91cf60b,1,Individual,Software,331,1290.25
+e9a012c7,2,Individual,Software,58,744.42
+ea0149fc,4,Small Business,Software,317,1240.72
+ea1f0959,2,Small Business,Software,234,524.03
+ea7ff3be,1,Individual,Software,354,391.63
+eae5023f,1,Individual,Services,275,606.26
+eb0e699f,3,Enterprise,Software,343,1451.41
+eb9c6576,2,Individual,Software,256,177
+ebd5532b,2,Individual,Services,283,984.95
+ec0df0db,2,Individual,Software,236,786.05
+eca6863c,3,Enterprise,Software,273,968.98
+ecdd697c,4,Small Business,Software,139,551.1
+ed338725,2,Enterprise,Hardware,61,254.99
+ed663928,1,Small Business,Software,156,927.56
+ede13aa5,1,Small Business,Software,160,385.95
+ee0340fd,3,Enterprise,Services,164,848.82
+ee41874d,1,Small Business,Software,11,174.3
+ee92e2e3,1,Individual,Software,295,272.91
+eed77c60,1,Individual,Services,263,1348.99
+eedbe157,1,Small Business,Software,262,452.09
+eeef2f95,2,Individual,Services,262,1352.11
+ef3b577a,1,Enterprise,Software,338,995.96
+ef93198e,1,Small Business,Software,12,1026.55
+efa462c6,1,Small Business,Services,46,448.17
+f01c4702,2,Enterprise,Hardware,187,1390.42
+f04cc8e5,2,Small Business,Hardware,186,434.88
+f05da0e3,4,Individual,Hardware,296,936.25
+f0832a5c,2,Enterprise,Services,171,1425.94
+f0cdd8ce,2,Individual,Software,150,634.06
+f0ed65ef,1,Small Business,Software,75,352.4
+f268e6ad,1,Enterprise,Software,118,934.34
+f2d2e057,1,Individual,Hardware,257,374.14
+f32a3e79,1,Individual,Software,279,482.61
+f34e7c91,1,Small Business,Software,324,429.61
+f34edc0b,4,Individual,Software,256,1066.8
+f36b8e84,5,Individual,Software,231,432.35
+f3a37c71,3,Small Business,Hardware,265,358.64
+f3b6e266,4,Individual,Software,72,872.1
+f3cc19f2,4,Small Business,Services,187,402.21
+f5240586,3,Enterprise,Hardware,139,1474.7
+f535ddf1,2,Individual,Software,260,1429.67
+f5dcf920,2,Enterprise,Services,66,253.9
+f5e5be3b,1,Small Business,Hardware,274,350.99
+f5fe83f7,1,Individual,Hardware,313,175.41
+f66ef214,2,Individual,Hardware,61,180.44
+f66f4c92,2,Individual,Hardware,23,1486.28
+f6937cd4,2,Individual,Hardware,120,290.99
+f6a2c107,2,Small Business,Software,123,334.52
+f6ce932c,2,Enterprise,Hardware,252,680.68
+f6d420b4,1,Enterprise,Software,322,991.8
+f7b07e76,1,Individual,Services,144,119.67
+f7d595db,1,Individual,Software,34,1179.28
+f81eb4d7,1,Individual,Software,180,866.57
+f81f84d6,2,Individual,Software,275,335.77
+f837df26,1,Individual,Hardware,348,384.05
+f8489f1d,1,Individual,Hardware,357,625.26
+f885c619,2,Small Business,Hardware,199,109.79
+f887abf1,2,Individual,Software,350,141.37
+f917b2f0,1,Individual,Hardware,301,383.48
+f927c4e4,1,Individual,Hardware,216,273.98
+f950eda1,1,Small Business,Hardware,357,925.23
+f961c376,4,Small Business,Software,172,1055.59
+fa5398b6,3,Small Business,Software,227,987.88
+fa5d5a84,1,Individual,Software,221,910.92
+fa5dd749,1,Individual,Software,218,970.16
+fa76ec5a,4,Enterprise,Software,288,679.64
+fa866870,3,Individual,Services,36,847.34
+fa9a736a,5,Individual,Hardware,263,1088.02
+facb573e,3,Individual,Services,303,928.9
+fb597f37,1,Small Business,Software,73,573.97
+fb5c13fd,2,Individual,Hardware,113,913.45
+fbc66ab3,1,Individual,Hardware,60,1400.91
+fc8723e4,5,Individual,Software,136,58.68
+fcf07bc3,1,Individual,Software,208,1010.93
+fd84df6f,2,Individual,Software,178,111.39
+fdb86de6,4,Individual,Hardware,123,162.82
+fe0614bb,2,Small Business,Software,328,172.71
+fe0a4472,2,Individual,Hardware,288,425.67
+fe19a02b,2,Individual,Hardware,333,364.72
+fe686e21,1,Enterprise,Hardware,50,161.8
+feacb318,2,Individual,Hardware,273,76.77
+feeea9e1,1,Individual,Software,111,555.06
+fffe5c5d,3,Individual,Software,345,192.74
